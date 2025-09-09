@@ -1,2 +1,1 @@
-# Git Practice
-Gioi thieu:Toi la huynh ho phuc an,MSSV 222258.
+Day la README tu nhanh main.
